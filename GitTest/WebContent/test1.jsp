@@ -8,5 +8,6 @@
 </head>
 <body>
 <h1>test1.jsp 수정</h1>
+update2
 </body>
 </html>
